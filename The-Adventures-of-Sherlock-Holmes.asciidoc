@@ -1,89 +1,14 @@
-The Project Gutenberg eBook of The Adventures of Sherlock Holmes, by Sir
-Arthur Conan Doyle
-===========================================================================================
+:TOC:
 
--------------------------------------------------------------------------------
-
-Project Gutenberg's The Adventures of Sherlock Holmes, by Arthur Conan Doyle
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.net
-
-
-Title: The Adventures of Sherlock Holmes
-
-Author: Arthur Conan Doyle
-
-Posting Date: April 18, 2011 [EBook #1661]
-First Posted: November 29, 2002
-
-Language: English
-
-Character set encoding: ISO-8859-1
-
-*** START OF THIS PROJECT GUTENBERG EBOOK THE ADVENTURES OF SHERLOCK HOLMES ***
-
-
-
-
-Produced by an anonymous Project Gutenberg volunteer and Jose Menendez
-
-
-
-
--------------------------------------------------------------------------------
-
-'''''
-
-THE ADVENTURES OF +
-SHERLOCK HOLMES
--------------------
-
- +
-BY
-^^
-
- +
+= THE ADVENTURES OF SHERLOCK HOLMES
 SIR ARTHUR CONAN DOYLE
-~~~~~~~~~~~~~~~~~~~~~~
 
-'''''
 
- +
-CONTENTS
-~~~~~~~~
+== ADVENTURE I. A SCANDAL IN BOHEMIA
 
- +
-[cols=",",]
-|===================================================
-|I. |link:#1[A Scandal in Bohemia]
-|II. |link:#2[The Red-Headed League]
-|III. |link:#3[A Case of Identity]
-|IV. |link:#4[The Boscombe Valley Mystery]
-|V. |link:#5[The Five Orange Pips]
-|VI. |link:#6[The Man with the Twisted Lip]
-|VII. |link:#7[The Adventure of the Blue Carbuncle]
-|VIII. |link:#8[The Adventure of the Speckled Band]
-|IX. |link:#9[The Adventure of the Engineer’s Thumb]
-|X. |link:#10[The Adventure of the Noble Bachelor]
-|XI. |link:#11[The Adventure of the Beryl Coronet]
-|XII. |link:#12[The Adventure of the Copper Beeches]
-|===================================================
+=== I.
 
- +
-
-'''''
-
- +
-ADVENTURE  I.  A SCANDAL IN BOHEMIA
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
- +
- I.
- +
- To Sherlock Holmes she is always _the_ woman. I have seldom heard him
+To Sherlock Holmes she is always _the_ woman. I have seldom heard him
 mention her under any other name. In his eyes she eclipses and
 predominates the whole of her sex. It was not that he felt any emotion
 akin to love for Irene Adler. All emotions, and that one particularly,
@@ -539,11 +464,11 @@ photograph a cabinet?”
 some good news for you. And good-night, Watson,” he added, as the wheels
 of the royal brougham rolled down the street. “If you will be good
 enough to call to-morrow afternoon at three o’clock I should like to
-chat this little matter over with you.” +
- +
-II.
- +
- At three o’clock precisely I was at Baker Street, but Holmes had not
+chat this little matter over with you.”
+
+=== II.
+
+At three o’clock precisely I was at Baker Street, but Holmes had not
 yet returned. The landlady informed me that he had left the house
 shortly after eight o’clock in the morning. I sat down beside the fire,
 however, with the intention of awaiting him, however long he might be. I
@@ -987,11 +912,11 @@ There were several people on the pavement at the time, but the greeting
 appeared to come from a slim youth in an ulster who had hurried by.
 
 “I’ve heard that voice before,” said Holmes, staring down the dimly lit
-street. “Now, I wonder who the deuce that could have been.” +
- +
-III.
- +
- I slept at Baker Street that night, and we were engaged upon our toast
+street. “Now, I wonder who the deuce that could have been.”
+
+=== III.
+
+I slept at Baker Street that night, and we were engaged upon our toast
 and coffee in the morning when the King of Bohemia rushed into the room.
 
 “You have really got it!” he cried, grasping Sherlock Holmes by either
@@ -1066,8 +991,8 @@ plunging in his hand, pulled out a photograph and a letter. The
 photograph was of Irene Adler herself in evening dress, the letter was
 superscribed to “Sherlock Holmes, Esq. To be left till called for.” My
 friend tore it open, and we all three read it together. It was dated at
-midnight of the preceding night and ran in this way: +
- +
+midnight of the preceding night and ran in this way:
+
 
 “MY DEAR MR. SHERLOCK HOLMES,—You really did it very well. You took me
 in completely. Until after the alarm of fire, I had not a suspicion. But
@@ -1097,10 +1022,10 @@ me from any steps which he might take in the future. I leave a
 photograph which he might care to possess; and I remain, dear Mr.
 Sherlock Holmes,
 
- +
- “Very truly yours,               +
- “IRENE NORTON, _ne_ ADLER.” +
- +
+
+“Very truly yours,              
+“IRENE NORTON, _ne_ ADLER.”
+
 
 “What a woman—oh, what a woman!” cried the King of Bohemia, when we had
 all three read this epistle. “Did I not tell you how quick and resolute
@@ -1136,24 +1061,20 @@ The King stared at him in amazement.
 “I thank your Majesty. Then there is no more to be done in the matter. I
 have the honour to wish you a very good morning.” He bowed, and, turning
 away without observing the hand which the King had stretched out to him,
-he set off in my company for his chambers. +
- +
+he set off in my company for his chambers.
+
 
 And that was how a great scandal threatened to affect the kingdom of
 Bohemia, and how the best plans of Mr. Sherlock Holmes were beaten by a
 woman’s wit. He used to make merry over the cleverness of women, but I
 have not heard him do it of late. And when he speaks of Irene Adler, or
 when he refers to her photograph, it is always under the honourable
-title of _the_ woman. +
- +
+title of _the_ woman.
 
-'''''
+== ADVENTURE  II.  
+THE RED-HEADED LEAGUE
 
-ADVENTURE  II.  THE RED-HEADED LEAGUE
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
- +
- I had called upon my friend, Mr. Sherlock Holmes, one day in the autumn
+I had called upon my friend, Mr. Sherlock Holmes, one day in the autumn
 of last year and found him in deep conversation with a very stout,
 florid-faced, elderly gentleman with fiery red hair. With an apology for
 my intrusion, I was about to withdraw when Holmes pulled me abruptly
@@ -1584,17 +1505,19 @@ is, and you can read for yourself.”
 
 He held up a piece of white cardboard about the size of a sheet of
 note-paper. It read in this fashion:
- +
- +
- THE RED-HEADED LEAGUE +
- +
- IS +
- +
- DISSOLVED. +
- +
+
+[quote]
+____
+ THE RED-HEADED LEAGUE
+
+ IS
+
+ DISSOLVED.
+
  October 9, 1890.
- +
- +
+____
+
+
 Sherlock Holmes and I surveyed this curt announcement and the rueful
 face behind it, until the comical side of the affair so completely
 overtopped every other consideration that we both burst out into a roar
@@ -2112,8 +2035,8 @@ within my experience.”
 Clay,” said Holmes. “I have been at some small expense over this matter,
 which I shall expect the bank to refund, but beyond that I am amply
 repaid by having had an experience which is in many ways unique, and by
-hearing the very remarkable narrative of the Red-headed League.” +
- +
+hearing the very remarkable narrative of the Red-headed League.”
+
 
 “You see, Watson,” he explained in the early hours of the morning as we
 sat over a glass of whisky and soda in Baker Street, “it was perfectly
@@ -2183,16 +2106,12 @@ the commonplaces of existence. These little problems help me to do so.”
 
 He shrugged his shoulders. “Well, perhaps, after all, it is of some
 little use,” he remarked. “ ‘__L’homme c’est rien—l’oeuvre c’est
-tout__,’ as Gustave Flaubert wrote to George Sand.” +
- +
+tout__,’ as Gustave Flaubert wrote to George Sand.”
 
-'''''
 
-ADVENTURE  III.  A CASE OF IDENTITY
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+== ADVENTURE  III.  A CASE OF IDENTITY
 
- +
- “My dear fellow,” said Sherlock Holmes as we sat on either side of the
+“My dear fellow,” said Sherlock Holmes as we sat on either side of the
 fire in his lodgings at Baker Street, “life is infinitely stranger than
 anything which the mind of man could invent. We would not dare to
 conceive the things which are really mere commonplaces of existence. If
@@ -2925,16 +2844,11 @@ with that of their employ, James Windibank. __Voil tout__!”
 “If I tell her she will not believe me. You may remember the old Persian
 saying, ‘There is danger for him who taketh the tiger cub, and danger
 also for whoso snatches a delusion from a woman.’ There is as much sense
-in Hafiz as in Horace, and as much knowledge of the world.” +
- +
+in Hafiz as in Horace, and as much knowledge of the world.”
 
-'''''
+== ADVENTURE IV. THE BOSCOMBE VALLEY MYSTERY
 
-ADVENTURE IV. THE BOSCOMBE VALLEY MYSTERY
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
- +
- We were seated at breakfast one morning, my wife and I, when the maid
+We were seated at breakfast one morning, my wife and I, when the maid
 brought in a telegram. It was from Sherlock Holmes and ran in this way:
 
 “Have you a couple of days to spare? Have just been wired for from the
@@ -3974,16 +3888,11 @@ of objections which had been drawn out by Holmes and submitted to the
 defending counsel. Old Turner lived for seven months after our
 interview, but he is now dead; and there is every prospect that the son
 and daughter may come to live happily together in ignorance of the black
-cloud which rests upon their past. +
- +
+cloud which rests upon their past.
 
-'''''
+== ADVENTURE  V.  THE FIVE ORANGE PIPS
 
-ADVENTURE  V.  THE FIVE ORANGE PIPS
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
- +
- When I glance over my notes and records of the Sherlock Holmes cases
+When I glance over my notes and records of the Sherlock Holmes cases
 between the years ’82 and ’90, I am faced by so many which present
 strange and interesting features that it is no easy matter to know which
 to choose and which to leave. Some, however, have already gained
@@ -4638,8 +4547,8 @@ believe that the only chance young Openshaw has in the meantime is to do
 what I have told him. There is nothing more to be said or to be done
 to-night, so hand me over my violin and let us try to forget for half an
 hour the miserable weather and the still more miserable ways of our
-fellow men.” +
- +
+fellow men.”
+
 
 It had cleared in the morning, and the sun was shining with a subdued
 brightness through the dim veil which hangs over the great city.
@@ -4804,16 +4713,12 @@ gales that year. We waited long for news of the _Lone Star_ of Savannah,
 but none ever reached us. We did at last hear that somewhere far out in
 the Atlantic a shattered stern-post of a boat was seen swinging in the
 trough of a wave, with the letters “L. S.” carved upon it, and that is
-all which we shall ever know of the fate of the __Lone Star__. +
- +
+all which we shall ever know of the fate of the __Lone Star__.
 
-'''''
 
-ADVENTURE  VI.  THE MAN WITH THE TWISTED LIP
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+== ADVENTURE  VI.  THE MAN WITH THE TWISTED LIP
 
- +
- Isa Whitney, brother of the late Elias Whitney, D.D., Principal of the
+Isa Whitney, brother of the late Elias Whitney, D.D., Principal of the
 Theological College of St. George’s, was much addicted to opium. The
 habit grew upon him, as I understand, from some foolish freak when he
 was at college; for having read De Quincey’s description of his dreams
@@ -5835,16 +5740,11 @@ matter up. I wish I knew how you reach your results.”
 
 “I reached this one,” said my friend, “by sitting upon five pillows and
 consuming an ounce of shag. I think, Watson, that if we drive to Baker
-Street we shall just be in time for breakfast.” +
- +
+Street we shall just be in time for breakfast.”
 
-'''''
+== VII.  THE ADVENTURE OF THE BLUE CARBUNCLE
 
-VII.  THE ADVENTURE OF THE BLUE CARBUNCLE
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
- +
- I had called upon my friend Sherlock Holmes upon the second morning
+I had called upon my friend Sherlock Holmes upon the second morning
 after Christmas, with the intention of wishing him the compliments of
 the season. He was lounging upon the sofa in a purple dressing-gown, a
 pipe-rack within his reach upon the right, and a pile of crumpled
@@ -6756,16 +6656,11 @@ him to gaol now, and you make him a gaol-bird for life. Besides, it is
 the season of forgiveness. Chance has put in our way a most singular and
 whimsical problem, and its solution is its own reward. If you will have
 the goodness to touch the bell, Doctor, we will begin another
-investigation, in which, also a bird will be the chief feature.” +
- +
+investigation, in which, also a bird will be the chief feature.”
 
-'''''
+== VIII.  THE ADVENTURE OF THE SPECKLED BAND
 
-VIII.  THE ADVENTURE OF THE SPECKLED BAND
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
- +
- On glancing over my notes of the seventy odd cases in which I have
+On glancing over my notes of the seventy odd cases in which I have
 during the last eight years studied the methods of my friend Sherlock
 Holmes, I find many tragic, some comic, a large number merely strange,
 but none commonplace; for, working as he did rather for the love of his
@@ -7292,8 +7187,8 @@ and I only trust that our little friend will not suffer from her
 imprudence in allowing this brute to trace her. And now, Watson, we
 shall order breakfast, and afterwards I shall walk down to Doctors’
 Commons, where I hope to get some data which may help us in this
-matter.” +
- +
+matter.”
+
 
 It was nearly one o’clock when Sherlock Holmes returned from his
 excursion. He held in his hand a sheet of blue paper, scrawled over with
@@ -7685,8 +7580,8 @@ Pritchard were among the heads of their profession. This man strikes
 even deeper, but I think, Watson, that we shall be able to strike deeper
 still. But we shall have horrors enough before the night is over; for
 goodness’ sake let us have a quiet pipe and turn our minds for a few
-hours to something more cheerful.” +
- +
+hours to something more cheerful.”
+
 
 About nine o’clock the light among the trees was extinguished, and all
 was dark in the direction of the Manor House. Two hours passed slowly
@@ -7825,8 +7720,8 @@ police know what has happened.”
 As he spoke he drew the dog-whip swiftly from the dead man’s lap, and
 throwing the noose round the reptile’s neck he drew it from its horrid
 perch and, carrying it at arm’s length, threw it into the iron safe,
-which he closed upon it. +
- +
+which he closed upon it.
+
 
 Such are the true facts of the death of Dr. Grimesby Roylott, of Stoke
 Moran. It is not necessary that I should prolong a narrative which has
@@ -7888,16 +7783,11 @@ other side. Some of the blows of my cane came home and roused its
 snakish temper, so that it flew upon the first person it saw. In this
 way I am no doubt indirectly responsible for Dr. Grimesby Roylott’s
 death, and I cannot say that it is likely to weigh very heavily upon my
-conscience.” +
- +
+conscience.”
 
-'''''
+== IX.  THE ADVENTURE OF THE ENGINEER’S THUMB
 
-IX.  THE ADVENTURE OF THE ENGINEER’S THUMB
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
- +
- Of all the problems which have been submitted to my friend, Mr.
+Of all the problems which have been submitted to my friend, Mr.
 Sherlock Holmes, for solution during the years of our intimacy, there
 were only two which I was the means of introducing to his notice—that of
 Mr. Hatherley’s thumb, and that of Colonel Warburton’s madness. Of these
@@ -8788,16 +8678,11 @@ thumb and I have lost a fifty-guinea fee, and what have I gained?”
 
 “Experience,” said Holmes, laughing. “Indirectly it may be of value, you
 know; you have only to put it into words to gain the reputation of being
-excellent company for the remainder of your existence.” +
- +
+excellent company for the remainder of your existence.”
 
-'''''
+== X.  THE ADVENTURE OF THE NOBLE BACHELOR
 
-X.  THE ADVENTURE OF THE NOBLE BACHELOR
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
- +
- The Lord St. Simon marriage, and its curious termination, have long
+The Lord St. Simon marriage, and its curious termination, have long
 ceased to be a subject of interest in those exalted circles in which the
 unfortunate bridegroom moves. Fresh scandals have eclipsed it, and their
 more piquant details have drawn the gossips away from this four-year-old
@@ -8862,8 +8747,8 @@ you must have read about Lord St. Simon and his wedding?”
 “That is well. The letter which I hold in my hand is from Lord St.
 Simon. I will read it to you, and in return you must turn over these
 papers and let me have whatever bears upon the matter. This is what he
-says: +
- +
+says:
+
 
 “ ‘MY DEAR MR. SHERLOCK HOLMES:—Lord Backwater tells me that I may place
 implicit reliance upon your judgment and discretion. I have determined,
@@ -8876,9 +8761,9 @@ o’clock in the afternoon, and, should you have any other engagement at
 that time, I hope that you will postpone it, as this matter is of
 paramount importance. Yours faithfully,
 
- +
-“ ‘ST. SIMON.’ +
- +
+
+“ ‘ST. SIMON.’
+
 
 “It is dated from Grosvenor Mansions, written with a quill pen, and the
 noble lord has had the misfortune to get a smear of ink upon the outer
@@ -9688,8 +9573,8 @@ for I am one of those who believe that the folly of a monarch and the
 blundering of a minister in far-gone years will not prevent our children
 from being some day citizens of the same world-wide country under a flag
 which shall be a quartering of the Union Jack with the Stars and
-Stripes.” +
- +
+Stripes.”
+
 
 “The case has been an interesting one,” remarked Holmes when our
 visitors had left us, “because it serves to show very clearly how simple
@@ -9759,16 +9644,11 @@ found yourself deprived in an instant of wife and of fortune. I think
 that we may judge Lord St. Simon very mercifully and thank our stars
 that we are never likely to find ourselves in the same position. Draw
 your chair up and hand me my violin, for the only problem we have still
-to solve is how to while away these bleak autumnal evenings.” +
- +
+to solve is how to while away these bleak autumnal evenings.”
 
-'''''
+== XI.  THE ADVENTURE OF THE BERYL CORONET
 
-XI.  THE ADVENTURE OF THE BERYL CORONET
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
- +
- “Holmes,” said I as I stood one morning in our bow-window looking down
+“Holmes,” said I as I stood one morning in our bow-window looking down
 the street, “here is a madman coming along. It seems rather sad that his
 relatives should allow him to come out alone.”
 
@@ -10567,8 +10447,8 @@ close upon the heels of another. My niece, Mary, has deserted me.”
 and a note for me lay upon the hall table. I had said to her last night,
 in sorrow and not in anger, that if she had married my boy all might
 have been well with him. Perhaps it was thoughtless of me to say so. It
-is to that remark that she refers in this note: +
- +
+is to that remark that she refers in this note:
+
 
 “ ‘MY DEAREST UNCLE:—I feel that I have brought trouble upon you, and
 that if I had acted differently this terrible misfortune might never
@@ -10578,9 +10458,9 @@ worry about my future, for that is provided for; and, above all, do not
 search for me, for it will be fruitless labour and an ill-service to me.
 In life or in death, I am ever your loving
 
- +
-“ ‘MARY.’ +
- +
+
+“ ‘MARY.’
+
 
 “What could she mean by that note, Mr. Holmes? Do you think it points to
 suicide?”
@@ -10817,16 +10697,12 @@ inform me where she is now.”
 
 “I think that we may safely say,” returned Holmes, “that she is wherever
 Sir George Burnwell is. It is equally certain, too, that whatever her
-sins are, they will soon receive a more than sufficient punishment.” +
- +
+sins are, they will soon receive a more than sufficient punishment.”
 
-'''''
+== XII.  THE ADVENTURE OF THE COPPER BEECHES
 
-XII.  THE ADVENTURE OF THE COPPER BEECHES
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
- +
- “To the man who loves art for its own sake,” remarked Sherlock Holmes,
+“To the man who loves art for its own sake,” remarked Sherlock Holmes,
 tossing aside the advertisement sheet of the __Daily Telegraph__, “it is
 frequently in its least important and lowliest manifestations that the
 keenest pleasure is to be derived. It is pleasant to me to observe,
@@ -10899,17 +10775,17 @@ touched bottom at last, however. This note I had this morning marks my
 zero-point, I fancy. Read it!” He tossed a crumpled letter across to me.
 
 It was dated from Montague Place upon the preceding evening, and ran
-thus: +
- +
+thus:
+
 
 “DEAR MR. HOLMES:—I am very anxious to consult you as to whether I
 should or should not accept a situation which has been offered to me as
 governess. I shall call at half-past ten to-morrow if I do not
 inconvenience you. Yours faithfully,
 
- +
-“VIOLET HUNTER.” +
- +
+
+“VIOLET HUNTER.”
+
 
 “Do you know the young lady?” I asked.
 
@@ -11108,7 +10984,7 @@ the agency and inquire whether the place was still open when I received
 this letter from the gentleman himself. I have it here and I will read
 it to you:
 
- +
+
  “ ‘The Copper Beeches, near Winchester.
 
 “ ‘DEAR MISS HUNTER:—Miss Stoper has very kindly given me your address,
@@ -11131,9 +11007,9 @@ as far as the child is concerned, are very light. Now do try to come,
 and I shall meet you with the dog-cart at Winchester. Let me know your
 train. Yours faithfully,
 
- +
-“ ‘JEPHRO RUCASTLE.’ +
- +
+
+“ ‘JEPHRO RUCASTLE.’
+
 
 “That is the letter which I have just received, Mr. Holmes, and my mind
 is made up that I will accept it. I thought, however, that before taking
@@ -11222,15 +11098,15 @@ it across to me.
 “Just look up the trains in Bradshaw,” said he, and turned back to his
 chemical studies.
 
-The summons was a brief and urgent one. +
- +
+The summons was a brief and urgent one.
+
 
 “Please be at the Black Swan Hotel at Winchester at midday to-morrow,”
 it said. “Do come! I am at my wit’s end.
 
- +
-“HUNTER.” +
- +
+
+“HUNTER.”
+
 
 “Will you come with me?” asked Holmes, glancing up.
 
@@ -11243,8 +11119,8 @@ it said. “Do come! I am at my wit’s end.
 
 “That will do very nicely. Then perhaps I had better postpone my
 analysis of the acetones, as we may need to be at our best in the
-morning.” +
- +
+morning.”
+
 
 By eleven o’clock the next day we were well upon our way to the old
 English capital. Holmes had been buried in the morning papers all the
@@ -11901,378 +11777,5 @@ government appointment in the island of Mauritius. As to Miss Violet
 Hunter, my friend Holmes, rather to my disappointment, manifested no
 further interest in her when once she had ceased to be the centre of one
 of his problems, and she is now the head of a private school at Walsall,
-where I believe that she has met with considerable success. +
- +
+where I believe that she has met with considerable success.
 
-'''''
-
------------------------------------------------------------------------------
-
-
-
-
-
-End of the Project Gutenberg EBook of The Adventures of Sherlock Holmes, by 
-Arthur Conan Doyle
-
-*** END OF THIS PROJECT GUTENBERG EBOOK THE ADVENTURES OF SHERLOCK HOLMES ***
-
-***** This file should be named 1661-h.htm or 1661-h.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/1/6/6/1661/
-
-Produced by an anonymous Project Gutenberg volunteer and Jose Menendez
-
-Updated editions will replace the previous one--the old editions
-will be renamed.
-
-Creating the works from public domain print editions means that no
-one owns a United States copyright in these works, so the Foundation
-(and you!) can copy and distribute it in the United States without
-permission and without paying copyright royalties.  Special rules,
-set forth in the General Terms of Use part of this license, apply to
-copying and distributing Project Gutenberg-tm electronic works to
-protect the PROJECT GUTENBERG-tm concept and trademark.  Project
-Gutenberg is a registered trademark, and may not be used if you
-charge for the eBooks, unless you receive specific permission.  If you
-do not charge anything for copies of this eBook, complying with the
-rules is very easy.  You may use this eBook for nearly any purpose
-such as creation of derivative works, reports, performances and
-research.  They may be modified and printed and given away--you may do
-practically ANYTHING with public domain eBooks.  Redistribution is
-subject to the trademark license, especially commercial
-redistribution.
-
-
-
-*** START: FULL LICENSE ***
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full Project
-Gutenberg-tm License (available with this file or online at
-http://gutenberg.net/license).
-
-
-Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
-electronic works
-
-1.A.  By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement.  If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or destroy
-all copies of Project Gutenberg-tm electronic works in your possession.
-If you paid a fee for obtaining a copy of or access to a Project
-Gutenberg-tm electronic work and you do not agree to be bound by the
-terms of this agreement, you may obtain a refund from the person or
-entity to whom you paid the fee as set forth in paragraph 1.E.8.
-
-1.B.  "Project Gutenberg" is a registered trademark.  It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement.  There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement.  See
-paragraph 1.C below.  There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this agreement
-and help preserve free future access to Project Gutenberg-tm electronic
-works.  See paragraph 1.E below.
-
-1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
-or PGLAF), owns a compilation copyright in the collection of Project
-Gutenberg-tm electronic works.  Nearly all the individual works in the
-collection are in the public domain in the United States.  If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you from
-copying, distributing, performing, displaying or creating derivative
-works based on the work as long as all references to Project Gutenberg
-are removed.  Of course, we hope that you will support the Project
-Gutenberg-tm mission of promoting free access to electronic works by
-freely sharing Project Gutenberg-tm works in compliance with the terms of
-this agreement for keeping the Project Gutenberg-tm name associated with
-the work.  You can easily comply with the terms of this agreement by
-keeping this work in the same format with its attached full Project
-Gutenberg-tm License when you share it without charge with others.
-
-1.D.  The copyright laws of the place where you are located also govern
-what you can do with this work.  Copyright laws in most countries are in
-a constant state of change.  If you are outside the United States, check
-the laws of your country in addition to the terms of this agreement
-before downloading, copying, displaying, performing, distributing or
-creating derivative works based on this work or any other Project
-Gutenberg-tm work.  The Foundation makes no representations concerning
-the copyright status of any work in any country outside the United
-States.
-
-1.E.  Unless you have removed all references to Project Gutenberg:
-
-1.E.1.  The following sentence, with active links to, or other immediate
-access to, the full Project Gutenberg-tm License must appear prominently
-whenever any copy of a Project Gutenberg-tm work (any work on which the
-phrase "Project Gutenberg" appears, or with which the phrase "Project
-Gutenberg" is associated) is accessed, displayed, performed, viewed,
-copied or distributed:
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.net
-
-1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
-from the public domain (does not contain a notice indicating that it is
-posted with permission of the copyright holder), the work can be copied
-and distributed to anyone in the United States without paying any fees
-or charges.  If you are redistributing or providing access to a work
-with the phrase "Project Gutenberg" associated with or appearing on the
-work, you must comply either with the requirements of paragraphs 1.E.1
-through 1.E.7 or obtain permission for the use of the work and the
-Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
-1.E.9.
-
-1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
-terms imposed by the copyright holder.  Additional terms will be linked
-to the Project Gutenberg-tm License for all works posted with the
-permission of the copyright holder found at the beginning of this work.
-
-1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5.  Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6.  You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including any
-word processing or hypertext form.  However, if you provide access to or
-distribute copies of a Project Gutenberg-tm work in a format other than
-"Plain Vanilla ASCII" or other format used in the official version
-posted on the official Project Gutenberg-tm web site (www.gutenberg.net),
-you must, at no additional cost, fee or expense to the user, provide a
-copy, a means of exporting a copy, or a means of obtaining a copy upon
-request, of the work in its original "Plain Vanilla ASCII" or other
-form.  Any alternate format must include the full Project Gutenberg-tm
-License as specified in paragraph 1.E.1.
-
-1.E.7.  Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8.  You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works provided
-that
-
-- You pay a royalty fee of 20% of the gross profits you derive from
-     the use of Project Gutenberg-tm works calculated using the method
-     you already use to calculate your applicable taxes.  The fee is
-     owed to the owner of the Project Gutenberg-tm trademark, but he
-     has agreed to donate royalties under this paragraph to the
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
-     must be paid within 60 days following each date on which you
-     prepare (or are legally required to prepare) your periodic tax
-     returns.  Royalty payments should be clearly marked as such and
-     sent to the Project Gutenberg Literary Archive Foundation at the
-     address specified in Section 4, "Information about donations to
-     the Project Gutenberg Literary Archive Foundation."
-
-- You provide a full refund of any money paid by a user who notifies
-     you in writing (or by e-mail) within 30 days of receipt that s/he
-     does not agree to the terms of the full Project Gutenberg-tm
-     License.  You must require such a user to return or
-     destroy all copies of the works possessed in a physical medium
-     and discontinue all use of and all access to other copies of
-     Project Gutenberg-tm works.
-
-- You provide, in accordance with paragraph 1.F.3, a full refund of any
-     money paid for a work or a replacement copy, if a defect in the
-     electronic work is discovered and reported to you within 90 days
-     of receipt of the work.
-
-- You comply with all other terms of this agreement for free
-     distribution of Project Gutenberg-tm works.
-
-1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
-electronic work or group of works on different terms than are set
-forth in this agreement, you must obtain permission in writing from
-both the Project Gutenberg Literary Archive Foundation and Michael
-Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
-Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1.  Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg-tm
-collection.  Despite these efforts, Project Gutenberg-tm electronic
-works, and the medium on which they may be stored, may contain
-"Defects," such as, but not limited to, incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other intellectual
-property infringement, a defective or damaged disk or other medium, a
-computer virus, or computer codes that damage or cannot be read by
-your equipment.
-
-1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from.  If you
-received the work on a physical medium, you must return the medium with
-your written explanation.  The person or entity that provided you with
-the defective work may elect to provide a replacement copy in lieu of a
-refund.  If you received the work electronically, the person or entity
-providing it to you may choose to give you a second opportunity to
-receive the work electronically in lieu of a refund.  If the second copy
-is also defective, you may demand a refund in writing without further
-opportunities to fix the problem.
-
-1.F.4.  Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
-WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
-WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5.  Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of damages.
-If any disclaimer or limitation set forth in this agreement violates the
-law of the state applicable to this agreement, the agreement shall be
-interpreted to make the maximum disclaimer or limitation permitted by
-the applicable state law.  The invalidity or unenforceability of any
-provision of this agreement shall not void the remaining provisions.
-
-1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in accordance
-with this agreement, and any volunteers associated with the production,
-promotion and distribution of Project Gutenberg-tm electronic works,
-harmless from all liability, costs and expenses, including legal fees,
-that arise directly or indirectly from any of the following which you do
-or cause to occur: (a) distribution of this or any Project Gutenberg-tm
-work, (b) alteration, modification, or additions or deletions to any
-Project Gutenberg-tm work, and (c) any Defect you cause.
-
-
-Section  2.  Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of computers
-including obsolete, old, middle-aged and new computers.  It exists
-because of the efforts of hundreds of volunteers and donations from
-people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come.  In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future generations.
-To learn more about the Project Gutenberg Literary Archive Foundation
-and how your efforts and donations can help, see Sections 3 and 4
-and the Foundation web page at http://www.pglaf.org.
-
-
-Section 3.  Information about the Project Gutenberg Literary Archive
-Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service.  The Foundation's EIN or federal tax identification
-number is 64-6221541.  Its 501(c)(3) letter is posted at
-http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
-Literary Archive Foundation are tax deductible to the full extent
-permitted by U.S. federal laws and your state's laws.
-
-The Foundation's principal office is located at 4557 Melan Dr. S.
-Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations.  Its business office is located at
-809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
-business@pglaf.org.  Email contact links and up to date contact
-information can be found at the Foundation's web site and official
-page at http://pglaf.org
-
-For additional contact information:
-     Dr. Gregory B. Newby
-     Chief Executive and Director
-     gbnewby@pglaf.org
-
-
-Section 4.  Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment.  Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States.  Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements.  We do not solicit donations in locations
-where we have not received written confirmation of compliance.  To
-SEND DONATIONS or determine the status of compliance for any
-particular state visit http://pglaf.org
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States.  U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses.  Donations are accepted in a number of other
-ways including including checks, online payments and credit card
-donations.  To donate, please visit: http://pglaf.org/donate
-
-
-Section 5.  General Information About Project Gutenberg-tm electronic
-works.
-
-Professor Michael S. Hart is the originator of the Project Gutenberg-tm
-concept of a library of electronic works that could be freely shared
-with anyone.  For thirty years, he produced and distributed Project
-Gutenberg-tm eBooks with only a loose network of volunteer support.
-
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S.
-unless a copyright notice is included.  Thus, we do not necessarily
-keep eBooks in compliance with any particular paper edition.
-
-
-Most people start at our Web site which has the main PG search facility:
-
-     http://www.gutenberg.net
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
-
------------------------------------------------------------------------------
