@@ -4,23 +4,23 @@ before_install:
 - gem install asciidoctor tilt
 - sudo apt-get install xsltproc
 script:
-  - git clone https://github.com/rdhyee/asciidoctor-htmlbook.git
-  - asciidoctor -a toc -b xhtml5 -d book -T ./asciidoctor-htmlbook/htmlbook-autogen/ -d book The-Adventures-of-Sherlock-Holmes.asciidoc -o The-Adventures-of-Sherlock-Holmes.html
-  - git clone https://github.com/sethwoodworth/HTMLBook
-  - xsltproc -stringparam external.assets.list " " ./HTMLBook/htmlbook-xsl/epub.xsl The-Adventures-of-Sherlock-Holmes.html
-  - cp ./HTMLBook/stylesheets/epub/epub.css OEBPS
-  - cp cover.png OEBPS/cover.png
-  - zip -rX The-Adventures-of-Sherlock-Holmes.epub mimetype
-  - zip -rX The-Adventures-of-Sherlock-Holmes.epub OEBPS/ META-INF/
+- git clone https://github.com/rdhyee/asciidoctor-htmlbook.git
+- asciidoctor -a toc -b xhtml5 -d book -T ./asciidoctor-htmlbook/htmlbook-autogen/
+  -d book The-Adventures-of-Sherlock-Holmes.asciidoc -o The-Adventures-of-Sherlock-Holmes.html
+- git clone https://github.com/sethwoodworth/HTMLBook
+- xsltproc -stringparam external.assets.list " " ./HTMLBook/htmlbook-xsl/epub.xsl
+  The-Adventures-of-Sherlock-Holmes.html
+- cp ./HTMLBook/stylesheets/epub/epub.css OEBPS
+- cp cover.png OEBPS/cover.png
+- zip -rX The-Adventures-of-Sherlock-Holmes.epub mimetype
+- zip -rX The-Adventures-of-Sherlock-Holmes.epub OEBPS/ META-INF/
 branches:
   only:
-    - master
+  - master
 deploy:
-  skip_cleanup: true
   provider: releases
   api_key:
-    secure: goBTVCh+r6LakSiKLgVl3scCjd1gtBUAvW/Zmi2fhedqhXZl3os4PhO1VgWAB9Rjk9r9Fcao3fSGJ6+aMXlhgm2UUeYzo/lV5gd/FvsDidmvYLW7g3q1jE4rg9lj1loZ6234jVmSiDzIzLtWBLr6N0SNhAInjmSLNnQEYZiNOyE=
+    secure: Ztt49Ck+WR4BIVt9CKZDV9BKjTz8Q59fGg5JSD4I5LtQDn2W7ZRTvsBBN0OuWYRCqKAKVqj+njWnBd/xAVn30S+VtjY0yhYIM1iF5OiqbEEmjaCOKp9cnuWPjBXDOiUS87hTeoSEp7UCrR6/2p608gNF4c916q7M9D2/0aJ5Uro=
   file: The-Adventures-of-Sherlock-Holmes.epub
   on:
     repo: sethwoodworth/The-Adventures-of-Sherlock-Holmes_1661
-
