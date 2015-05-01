@@ -1,6 +1,6 @@
 = The Adventures of Sherlock Holmes
 Sir Arthur Conan Doyle
-v0.0.4
+v0.0.5
 :TOC:
 
 [colophon]
@@ -12,7 +12,7 @@ the GITENBERG PROJECT.
 This work is in the public domain.
 
 If you find any issues with this work, please report them at
-https://github.com/GITenberg/The-Time-Machine_35/issues
+https://github.com/GITenberg/The-Adventures-of-Sherlock-Holmes_1661/issues
 
 +
 
