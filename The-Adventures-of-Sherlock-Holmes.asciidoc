@@ -1,6 +1,6 @@
 = The Adventures of Sherlock Holmes
 Sir Arthur Conan Doyle
-v0.0.6
+v0.0.7
 :TOC:
 
 [colophon]
