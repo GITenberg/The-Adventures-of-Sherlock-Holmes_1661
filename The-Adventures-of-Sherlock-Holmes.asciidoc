@@ -1,8 +1,28 @@
+= The Adventures of Sherlock Holmes
+Sir Arthur Conan Doyle
+v0.0.8
 :TOC:
 
-= THE ADVENTURES OF SHERLOCK HOLMES
-SIR ARTHUR CONAN DOYLE
+[colophon]
+== Copyright
 
+This edition of _The Adventures of Sherlock Holmes_ is maintained, archived, and curated as part of
+the GITENBERG PROJECT.
+
+This work is in the public domain.
+
+If you find any issues with this work, please report them at
+https://github.com/GITenberg/The-Adventures-of-Sherlock-Holmes_1661/issues
+
++
+
+Cover provided by Recovering the Classics
+
+Artist: Eleanor Beeden, (C) 2013
+
+Made available under a Creative Commons Attribution-NonCommercial 4.0 license
+
+https://creativecommons.org/licenses/by-nc/4.0/
 
 == ADVENTURE I. A SCANDAL IN BOHEMIA
 
