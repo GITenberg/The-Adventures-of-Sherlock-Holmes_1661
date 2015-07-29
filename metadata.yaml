@@ -1,0 +1,38 @@
+_repo: The-Adventures-of-Sherlock-Holmes_1661
+creator:
+  author:
+    agent_name: Doyle, Arthur Conan
+    aliases:
+    - Doyle, A. Conan
+    - Conan Doyle, Arthur, Sir
+    - Doyle, Sir Arthur Conan
+    birthdate: 1859
+    deathdate: 1930
+    gutenberg_agent_id: '69'
+    url: http://www.gutenberg.org/2009/agents/69
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Conan_Doyle
+description: 'Also available as audio book: #9551'
+gutenberg_bookshelf:
+- Detective Fiction
+- Banned Books from Anne Haight's list
+- Contemporary Reviews
+gutenberg_issued: '1999-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1661'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- '!lcsh:Private investigators -- England -- Fiction'
+- '!lcsh:Holmes, Sherlock (Fictitious character) -- Fiction'
+- '!lcc:PR'
+- '!lcsh:Detective and mystery stories, English'
+tableOfContents: "A Scandal in Bohemia\r\nThe Red-Headed League\r\nA Case of Identity\r\
+  \nThe Boscombe Valley Mystery\r\nThe Five Orange Pips\r\nThe Man with the Twisted\
+  \ Lip\r\nThe Adventure of the Blue Carbuncle\r\nThe Adventure of the Speckled Band\r\
+  \nThe Adventure of the Engineer's Thumb\r\nThe Adventure of the Noble Bachelor\r\
+  \nThe Adventure of the Beryl Coronet\r\nThe Adventure of the Copper Beeches"
+title: The Adventures of Sherlock Holmes
+url: http://www.gutenberg.org/ebooks/1661
