@@ -10,8 +10,8 @@ creator:
     agent_name: Doyle, Arthur Conan
     aliases:
     - Conan Doyle, Arthur, Sir
-    - Doyle, A. Conan
     - Doyle, Sir Arthur Conan
+    - Doyle, A. Conan
     birthdate: 1859
     deathdate: 1930
     gutenberg_agent_id: '69'
@@ -20,8 +20,8 @@ creator:
 description: 'Also available as audio book: #9551'
 gutenberg_bookshelf:
 - Contemporary Reviews
-- Detective Fiction
 - Banned Books from Anne Haight's list
+- Detective Fiction
 gutenberg_issued: '1999-03-01'
 gutenberg_type: Text
 identifiers:
@@ -31,10 +31,10 @@ publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
 subjects:
-- '!lcsh:Private investigators -- England -- Fiction'
-- '!lcsh:Detective and mystery stories, English'
-- '!lcsh:Holmes, Sherlock (Fictitious character) -- Fiction'
-- '!lcc:PR'
+- '!lcsh: Holmes, Sherlock (Fictitious character) -- Fiction'
+- '!lcsh: Private investigators -- England -- Fiction'
+- '!lcsh: Detective and mystery stories, English'
+- '!lcc: PR'
 tableOfContents: "A Scandal in Bohemia\r\nThe Red-Headed League\r\nA Case of Identity\r\
   \nThe Boscombe Valley Mystery\r\nThe Five Orange Pips\r\nThe Man with the Twisted\
   \ Lip\r\nThe Adventure of the Blue Carbuncle\r\nThe Adventure of the Speckled Band\r\
