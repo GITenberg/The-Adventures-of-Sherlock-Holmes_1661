@@ -1,5 +1,5 @@
 _repo: The-Adventures-of-Sherlock-Holmes_1661
-_version: 0.0.2
+_version: 0.1.0
 covers:
 - attribution: Maria Papaefstathiou, 2015
   cover_type: original
@@ -37,6 +37,7 @@ subjects:
 - '!lcsh: Private investigators -- England -- Fiction'
 - '!lcsh: Detective and mystery stories, English'
 - '!lcc: PR'
+- GITenberg
 tableOfContents: "A Scandal in Bohemia\r\nThe Red-Headed League\r\nA Case of Identity\r\
   \nThe Boscombe Valley Mystery\r\nThe Five Orange Pips\r\nThe Man with the Twisted\
   \ Lip\r\nThe Adventure of the Blue Carbuncle\r\nThe Adventure of the Speckled Band\r\
