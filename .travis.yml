@@ -21,13 +21,15 @@ script:
 - /usr/bin/python asciidoctor-htmlbook/gitberg-machine/machine.py -o . -m metadata.yaml book.html
 - xsltproc -stringparam external.assets.list " " ./HTMLBook/htmlbook-xsl/epub.xsl book.html
 - cp ./HTMLBook/stylesheets/epub/epub.css OEBPS
-- cp cover.jpg OEBPS/cover.jpg
+- if [ -e cover.jpg ]; then cp cover.jpg OEBPS/cover.jpg; fi
 # look for first images directory and one found, copy over to ./OEBPS
 - find . -name images -type d | head -n 1 | xargs -I {} mv {} ./OEBPS/
 - zip -rX book.epub mimetype
 - zip -rX book.epub OEBPS/ META-INF/
 - if test -d "OEBPS/images/"; then zip -rX book.epub OEBPS/images/ ;fi
 - mv book.epub The-Adventures-of-Sherlock-Holmes.epub
+- ebook-convert The-Adventures-of-Sherlock-Holmes.epub The-Adventures-of-Sherlock-Holmes.mobi
+- xvfb-run ebook-convert The-Adventures-of-Sherlock-Holmes.epub The-Adventures-of-Sherlock-Holmes.pdf
 branches:
   only:
   - master
@@ -43,10 +45,15 @@ deploy:
   provider: releases
   api_key:
     secure: Y9qe07y4zh1i/Al3tjYQa73Kk5UbaQgM5dQXg1Fc5g41nIiDn8lbf4Ho7WXThSzl+ucgTr8ohyjPfgO5xuG3zJY2/nledA6+su7+wLX3fbj4uZCyCBsjeXjlqAC9nIT1UzsYmU8KKgSr8nJKQnWfAjIjdp6LhjclTAT3r9BnXDxo81oAcOplXBECi4bPE9PAM22Vq9V3kCy2YynXsqIerRG9NIX0UOQvPZcfZQ8bISrKJiitSSh6rSthT8h84ZqoROI+FjjZdWBHsyW3vRMxF4FJz98OMMi5X0/lHqiVw2El5FyyO/k3uiSyH+1TFRpVri8JHKWuE+1dHiMhaGknc8bo8aDdKGD3P2Ji3gYQyB8/eYFuZrQ9lVrILBkELxGJDRs6GwDDEpJaEhpn8U+ohmKIv1oN3yENSHMKdWoeFi2C3vJBFAU3vi/GEbCbFSKyPXwf2i62qvsC/iIzr0LN+B+1O2hqqnMhJqobPYjUMSPAZ+wPL2ITh73iPIJzL+CQQTMrqiwWNUw/Hs7/6ta6vEYLRiJhtt7oew7sVItgcM3FQ/hKitLTuLJqOdbmRgnXXNme0W6tXVvz0PCWSpOJV2PJnJfk4jXZVw66pu+a8YoX4B8qycW5zIfJHFW5k4W1UOCTCtfDzk3UAA7C6XHnTz6zE5rJXc3kijSbEKB8mw4=
-  file: The-Adventures-of-Sherlock-Holmes.epub
+  file:
+    - The-Adventures-of-Sherlock-Holmes.epub
+    - The-Adventures-of-Sherlock-Holmes.mobi
+    - The-Adventures-of-Sherlock-Holmes.pdf
   "on":
     repo: GITenberg/The-Adventures-of-Sherlock-Holmes_1661
 addons:
   apt:
     packages:
     - xsltproc
+    - xvfb
+    - calibre
