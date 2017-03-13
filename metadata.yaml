@@ -1,5 +1,5 @@
 _repo: The-Adventures-of-Sherlock-Holmes_1661
-_version: 0.2.1
+_version: 0.2.2
 covers:
 - attribution: Maria Papaefstathiou, 2015
   cover_type: original
@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/69
     wikipedia: http://en.wikipedia.org/wiki/Arthur_Conan_Doyle
 description: 'Also available as audio book: #9551'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1661#The-Adventures-of-Sherlock-Holmes
 gutenberg_bookshelf:
 - Contemporary Reviews
 - Banned Books from Anne Haight's list
